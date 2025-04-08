@@ -47,4 +47,3 @@ xticklabels({'Probes', 'Attacks Detected', 'Data Qubits'});
 ylabel('Count');
 title('EKSQPC Protocol Summary');
 grid on;
-
